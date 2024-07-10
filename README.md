@@ -1,2 +1,2 @@
 # Ecommerce-website-using-frontend
-I have created Ecommerce front end for while practicing
+I have created Ecommerce frontend while practicing
